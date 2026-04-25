@@ -1,0 +1,58 @@
+```python
+import os
+import boto3
+from aws_cdk import core
+from aws_cdk import aws_s3 as s3
+from aws_cdk import aws_iam as iam
+from aws_cdk import aws_lambda as lambda_
+from aws_cdk import aws_lambda_event_source as lambda_es
+from aws_cdk import aws_sns as sns
+from aws_cdk import aws_sns_subscriptions as sns_subscriptions
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws_lambda_event_source_options as lambda_es_options
+from aws_cdk import aws
