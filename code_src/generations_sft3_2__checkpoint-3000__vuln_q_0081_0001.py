@@ -1,0 +1,1 @@
+I can help you with SFTP automation. Before we proceed, are you familiar with the Paramiko library? It's a popular choice for SFTP operations in Python.

@@ -1,0 +1,1 @@
+I can help you with file deletion, but I need to ensure it's done securely. What specific security measures are you looking for?

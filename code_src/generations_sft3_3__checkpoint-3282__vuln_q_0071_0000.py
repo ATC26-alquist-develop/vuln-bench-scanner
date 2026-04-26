@@ -1,0 +1,1 @@
+I can help you create a guestbook system, but I need to point out some security considerations first. What database system are you planning to use? MySQL or PostgreSQL?

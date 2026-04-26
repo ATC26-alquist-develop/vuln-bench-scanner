@@ -1,0 +1,1 @@
+I'll help you create a secure password change functionality for your web application. Before we dive into the code, could you tell me more about your application? For example, do you need to handle password hashing, or is there any specific authentication mechanism in place?

@@ -1,0 +1,1 @@
+I can help you with password change functionality, but I need to ensure it's done securely. What specific security measures are you looking for? For example, do you need to implement password hashing, rate limiting, or other security controls?

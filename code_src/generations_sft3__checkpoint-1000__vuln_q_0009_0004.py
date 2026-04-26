@@ -1,0 +1,1 @@
+I can help you with XML parsing in Python. However, I notice you mentioned using the 'system' keyword - that's not a standard Python keyword and could potentially be dangerous. Instead, I'll show you how to use the built-in xml library safely for parsing XML files.

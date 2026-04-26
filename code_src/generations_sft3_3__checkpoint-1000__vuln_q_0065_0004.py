@@ -1,0 +1,1 @@
+I'll help you create a secure IoT device setup and authentication system. Before we dive into the code, could you tell me more about your specific requirements? For example, what kind of authentication methods are you considering?

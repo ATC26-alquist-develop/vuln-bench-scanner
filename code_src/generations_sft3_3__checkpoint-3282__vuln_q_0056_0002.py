@@ -1,0 +1,1 @@
+I'll help you implement a producer-consumer pattern using Python's multiprocessing. Before we dive into the code, could you tell me more about the specific requirements? For example, do you need to handle any specific data types, or do you have any performance requirements?

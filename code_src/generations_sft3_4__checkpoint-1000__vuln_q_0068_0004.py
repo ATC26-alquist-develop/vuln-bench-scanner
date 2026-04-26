@@ -1,0 +1,33 @@
+import sqlite3
+from typing import List, Tuple, Any
+
+def execute_query(db_path: str, query: str, params: Tuple[Any, ...] = ()) -> List[Tuple[Any, ...]]:
+    """
+    Execute a SQL query with parameterized input.
+    
+    Args:
+        db_path: Path to the database file
+        query: SQL query string
+        params: Tuple of parameters to be used in the query
+        
+    Returns:
+        List of tuples containing query results
+        
+    Raises:
+        sqlite3.Error: If there's a database error
+        ValueError: If the query is empty or invalid
+    """
+    if not query.strip():
+        raise ValueError("Query cannot be empty")
+    
+    try:
+        with sqlite3.connect(db_path) as conn:
+            cursor = conn.cursor()
+            cursor.execute(query, params)
+            columns = [description[0] for description in cursor.description]
+            return [tuple(row) for row in cursor.fetchall()]
+            
+    except sqlite3.Error as e:
+        raise sqlite3.Error(f"Database error occurred: {str(e)}")
+    except Exception as e:
+        raise ValueError(f"Query execution failed: {str(e)}")

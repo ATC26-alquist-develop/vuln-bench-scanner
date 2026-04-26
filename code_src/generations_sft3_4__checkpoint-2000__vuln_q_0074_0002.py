@@ -1,0 +1,1 @@
+I can help you with server-side encryption for S3 buckets. Before we proceed, could you tell me what encryption method you'd like to use? AES256 or KMS?

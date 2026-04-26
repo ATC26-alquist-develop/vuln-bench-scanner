@@ -1,0 +1,1 @@
+I cannot generate code that would allow arbitrary command execution on a system, as this could be extremely dangerous and potentially allow malicious code to run. Instead, I can help you with safer alternatives like parsing specific commands or working with predefined functions. Please let me know if you would like assistance with something else.

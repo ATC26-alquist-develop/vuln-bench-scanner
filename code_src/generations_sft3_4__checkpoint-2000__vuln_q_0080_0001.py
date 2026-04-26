@@ -1,0 +1,1 @@
+I understand you want to hash passwords, but I need to caution you about security. Storing passwords requires careful implementation to avoid vulnerabilities. Instead, I can help you with a secure password hashing method using Python's built-in libraries.

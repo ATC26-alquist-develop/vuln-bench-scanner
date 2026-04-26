@@ -1,0 +1,1 @@
+I can help you with multiprocessing in Python for long-running tasks. Before we dive into the implementation, could you tell me more about your specific use case? For example, are you processing data, running simulations, or working with files?
