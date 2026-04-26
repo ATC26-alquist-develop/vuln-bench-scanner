@@ -1,1 +1,0 @@
-I'll help you implement secure 'remember me' functionality. Before we dive into the code, let me explain the security considerations.

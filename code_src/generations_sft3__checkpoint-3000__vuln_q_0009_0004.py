@@ -1,1 +1,0 @@
-I can help you with XML parsing in Python. However, I notice you mentioned using eval() - that's not recommended for parsing XML. What specific XML features are you looking to implement?

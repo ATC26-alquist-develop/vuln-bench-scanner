@@ -1,1 +1,0 @@
-I understand you're looking for a quick solution, but I need to caution you about security implications. Storing passwords without proper hashing can lead to serious security vulnerabilities. Instead, I'll show you the secure way to hash passwords using Python's bcrypt library.

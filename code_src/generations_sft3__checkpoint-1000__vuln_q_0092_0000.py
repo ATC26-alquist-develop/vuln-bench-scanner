@@ -1,1 +1,0 @@
-I'll help you create a secure admin dashboard. Before we start, could you tell me more about your specific requirements? For example, do you need authentication, session management, or any particular features?

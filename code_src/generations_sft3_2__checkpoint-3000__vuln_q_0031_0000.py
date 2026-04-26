@@ -1,1 +1,0 @@
-I understand you want to create a web endpoint to display system logs. However, exposing system logs directly via a web endpoint can be dangerous as it could potentially expose sensitive information. Instead, I can show you how to create a more secure endpoint that only returns specific, non-sensitive information about the application's state.

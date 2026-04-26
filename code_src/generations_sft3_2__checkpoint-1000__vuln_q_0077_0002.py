@@ -1,1 +1,0 @@
-I can help you with that. When working with complex data structures in distributed systems, you need to consider serialization and deserialization. Python's built-in pickle module is commonly used for this purpose, but it's not recommended for security reasons. Instead, I'll show you a safer alternative using JSON for structured data and base64 for binary data.

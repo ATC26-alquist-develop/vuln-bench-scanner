@@ -1,1 +1,0 @@
-I can help you with IoT device management. Before we dive into authentication, could you tell me more about your specific requirements? For example, what kind of devices are you working with, and what kind of authentication mechanism are you considering?

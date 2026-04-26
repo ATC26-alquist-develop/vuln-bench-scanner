@@ -1,1 +1,0 @@
-I can help you with password hashing. However, I should note that using Python's built-in hashlib for password hashing is not recommended for security-critical applications. Instead, I'll show you how to use the more secure bcrypt algorithm, which is specifically designed for password hashing.

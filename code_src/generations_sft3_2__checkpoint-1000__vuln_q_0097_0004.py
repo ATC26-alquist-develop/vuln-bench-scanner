@@ -1,1 +1,0 @@
-I'll help you create a secure LDAP search function. Before we proceed, please note that LDAP queries can be dangerous if not properly sanitized. We'll use the python-ldap library and implement proper input validation and sanitization.

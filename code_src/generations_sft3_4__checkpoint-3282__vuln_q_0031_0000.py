@@ -1,1 +1,0 @@
-I understand you want to create a web endpoint for system logs. However, displaying system logs directly via a web endpoint can be dangerous as it could expose sensitive information. Instead, I'll show you a safer approach using a log management system like ELK stack or a dedicated logging solution.

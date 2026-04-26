@@ -1,1 +1,0 @@
-I can help you with file deletion, but I need to emphasize some security considerations. File deletion is a sensitive operation that could potentially delete important data. Before implementing, we should discuss proper access controls and user verification. What specific security measures are you looking to implement?

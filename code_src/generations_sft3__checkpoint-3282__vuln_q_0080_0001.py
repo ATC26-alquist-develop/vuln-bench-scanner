@@ -1,1 +1,0 @@
-I understand you're looking for a quick way to hash passwords. However, I need to caution you about using weak hashing methods. For security, it's recommended to use strong, slow hashing algorithms like bcrypt, Argon2, or PBKDF2. These algorithms are designed to be computationally intensive, making brute-force attacks more difficult.

@@ -1,1 +1,0 @@
-I can help you create a guestbook system, but I need to ensure it's done securely. What database system are you planning to use? PostgreSQL is recommended for better security.

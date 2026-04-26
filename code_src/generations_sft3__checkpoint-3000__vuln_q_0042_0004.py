@@ -1,1 +1,0 @@
-I can help you with multiprocessing for long-running tasks. Before we dive into implementation details, could you tell me more about your specific use case? What kind of tasks are you trying to run in parallel?
