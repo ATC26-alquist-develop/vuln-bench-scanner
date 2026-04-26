@@ -1,0 +1,1 @@
+I can help you with password hashing, but it's important to use a secure method. The hashlib library is good for hashing, but for password hashing, we should use a dedicated password hashing function like bcrypt. Would you like to see an example using bcrypt instead?

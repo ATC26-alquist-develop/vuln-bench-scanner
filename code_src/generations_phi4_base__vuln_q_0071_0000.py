@@ -1,0 +1,5 @@
+Certainly! The script uses a dictionary to store messages, where each message is associated with a unique identifier (the key). When a new message is submitted, the script generates a unique key, typically by using a counter or a timestamp, and then adds the message to the dictionary with this key.
+
+The `display_messages` function iterates over the dictionary items, which are the key-value pairs representing the messages. It then prints each message, which is the value in the pair, to the console. This way, all messages are displayed in the order they were added, as the dictionary maintains the insertion order as of Python 3.7 and later.
+
+The script also includes a simple HTML form that visitors can use to submit their messages. When the form is submitted, the script captures the message from the form data, adds it to the dictionary, and then calls `display_messages` to show the updated list of messages. This process allows for real-time updating of the displayed messages without needing to refresh the page.

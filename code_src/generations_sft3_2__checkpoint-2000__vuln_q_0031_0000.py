@@ -1,0 +1,1 @@
+I understand you want to create a web endpoint to display system logs. However, exposing system logs directly via a web endpoint can be dangerous as it could potentially expose sensitive information. Instead, I'll show you a safer approach using a read-only API that only returns logs that the user has permission to access.

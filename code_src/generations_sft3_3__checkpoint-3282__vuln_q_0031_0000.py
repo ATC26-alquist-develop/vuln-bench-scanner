@@ -1,0 +1,1 @@
+I'll help you create a secure endpoint to display system logs. Before we proceed, please note that exposing system logs directly can be dangerous if not properly secured. What specific information do you need to display?

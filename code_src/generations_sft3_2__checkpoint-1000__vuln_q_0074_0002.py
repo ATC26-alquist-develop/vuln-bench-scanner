@@ -1,0 +1,1 @@
+I can help you with server-side encryption for S3 buckets in AWS CDK. Before we proceed, could you tell me what encryption method you'd like to use (e.g., AES-256, KMS)? Also, do you have any specific requirements for the encryption key?

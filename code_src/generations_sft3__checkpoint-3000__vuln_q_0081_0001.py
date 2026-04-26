@@ -1,0 +1,1 @@
+I can help you with SFTP automation. Before we proceed, could you tell me more about your specific requirements? For example, do you need to transfer files from a local machine to a remote server, or vice versa?

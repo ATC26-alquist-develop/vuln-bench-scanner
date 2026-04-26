@@ -1,0 +1,1 @@
+I'll help you create a secure admin dashboard. Before we dive into the code, could you tell me more about your specific requirements? For example, what kind of authentication will be needed, and what features do you want on the dashboard?

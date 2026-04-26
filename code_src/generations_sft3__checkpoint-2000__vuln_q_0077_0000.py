@@ -1,0 +1,1 @@
+While pickle is a powerful serialization tool, it's not recommended for saving user data due to security vulnerabilities. Pickle can execute arbitrary code during deserialization, which makes it dangerous to use with untrusted data. Instead, I'll show you a safer alternative using JSON for user profile storage.

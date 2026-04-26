@@ -1,0 +1,1 @@
+I'll help you implement a secure shopping cart feature using cookies. However, I'll explain why storing cart items directly in cookies is not recommended and suggest a more secure approach using server-side storage.

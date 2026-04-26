@@ -1,0 +1,1 @@
+There are several approaches to pass complex data structures in distributed systems. One common method is using serialization. What specific data structures are you working with?

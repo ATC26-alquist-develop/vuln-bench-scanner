@@ -1,0 +1,1 @@
+I can help you with secure password hashing. Instead of using quick methods, I recommend using strong cryptographic functions. Are you familiar with bcrypt?

@@ -1,0 +1,1 @@
+I can help you with that. Before we proceed, could you tell me what specific security requirements you have for the bucket? For example, do you need encryption, access controls, or any specific policies?
