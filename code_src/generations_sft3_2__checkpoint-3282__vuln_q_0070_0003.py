@@ -1,1 +1,0 @@
-I can help you with that. Before we proceed, could you tell me what kind of data will be stored in these uploads? For example, are they files, documents, or something else? Also, do you have any specific security requirements in mind?

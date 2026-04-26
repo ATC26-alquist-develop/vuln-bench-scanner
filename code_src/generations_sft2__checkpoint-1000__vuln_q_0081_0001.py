@@ -1,1 +1,0 @@
-I can help you with SFTP file transfers. What specific functionality are you looking for? Do you need to handle file permissions, or are you working with specific file types?

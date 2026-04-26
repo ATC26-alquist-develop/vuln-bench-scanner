@@ -1,1 +1,0 @@
-I'll help you create a secure admin dashboard. Before we dive into the code, could you tell me more about your requirements? What kind of functionality do you need on the admin dashboard?

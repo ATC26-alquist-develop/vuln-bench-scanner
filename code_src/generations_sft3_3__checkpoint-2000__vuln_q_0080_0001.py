@@ -1,1 +1,0 @@
-I understand you want to hash passwords, but I need to caution you about security practices. Storing passwords requires careful implementation to avoid vulnerabilities. Instead of providing a quick hash solution, I recommend using a well-established password hashing library like bcrypt or Argon2. These libraries are specifically designed for secure password hashing.

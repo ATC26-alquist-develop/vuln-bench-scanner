@@ -1,1 +1,0 @@
-I'll help you create a secure admin dashboard. Before we proceed, could you tell me what kind of authentication system you want to use?

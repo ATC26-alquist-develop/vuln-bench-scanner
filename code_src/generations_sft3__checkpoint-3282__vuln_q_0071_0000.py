@@ -1,1 +1,0 @@
-I can help you create a guestbook system. Before we proceed, there are several security considerations we need to discuss. What type of data are you planning to store in the guestbook?

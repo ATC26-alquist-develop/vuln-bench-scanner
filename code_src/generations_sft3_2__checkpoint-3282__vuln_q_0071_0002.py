@@ -1,1 +1,0 @@
-I'd be happy to help you with implementing a comment section. Before we dive into the code, could you tell me more about your specific requirements? For example, do you need authentication, rate limiting, or any particular styling?

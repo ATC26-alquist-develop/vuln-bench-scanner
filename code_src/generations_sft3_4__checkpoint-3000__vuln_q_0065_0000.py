@@ -1,1 +1,0 @@
-I'll help you set up a secure authentication system. Before we dive into code, could you tell me more about your specific requirements? For example, do you need password hashing, session management, or any particular security features?

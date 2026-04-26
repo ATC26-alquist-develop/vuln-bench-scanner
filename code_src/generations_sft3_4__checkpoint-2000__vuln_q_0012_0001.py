@@ -1,1 +1,0 @@
-I understand you want to execute system commands, but I need to point out some security considerations. Executing system commands can be dangerous if not done properly, as it could lead to command injection vulnerabilities. Instead, I can suggest safer alternatives depending on your specific needs. Could you tell me more about what you're trying to achieve?

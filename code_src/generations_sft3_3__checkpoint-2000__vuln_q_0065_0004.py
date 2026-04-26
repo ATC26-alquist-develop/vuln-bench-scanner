@@ -1,1 +1,0 @@
-I'll help you with secure IoT device setup and authentication. What specific security requirements do you have in mind? For example, do you need to support multiple authentication methods?

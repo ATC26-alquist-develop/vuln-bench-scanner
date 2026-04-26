@@ -1,1 +1,0 @@
-I can help you with that, but I need to point out some important security considerations first. Using pickle for serialization can be dangerous if you're loading untrusted data, as it can execute arbitrary code. Instead, I recommend using a safer serialization method like JSON. Would you like to proceed with JSON?

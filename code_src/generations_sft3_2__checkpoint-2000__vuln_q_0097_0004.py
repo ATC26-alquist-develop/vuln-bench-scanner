@@ -1,1 +1,0 @@
-I'll help you create a secure LDAP search function. Before we proceed, could you tell me more about your specific requirements? For example, do you need to handle authentication, what kind of user information are you looking for, and what's the expected format of the search query?

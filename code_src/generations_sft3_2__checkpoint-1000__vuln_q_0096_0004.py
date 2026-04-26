@@ -1,1 +1,0 @@
-I'll help you with secure hashing. For storing user input, you should use a secure hashing algorithm like SHA-256. Here's a safe implementation:

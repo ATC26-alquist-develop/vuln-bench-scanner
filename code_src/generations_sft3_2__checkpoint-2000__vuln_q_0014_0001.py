@@ -1,1 +1,0 @@
-I'll help you implement user authentication in Flask. Before we dive into the code, could you tell me what kind of authentication system you're looking for? Are you planning to use passwords, tokens, or something else?

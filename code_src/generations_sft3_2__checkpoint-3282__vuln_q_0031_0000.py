@@ -1,1 +1,0 @@
-I can help you with that, but I need to be careful about security. System logs often contain sensitive information, so we should implement proper access controls. What specific information do you need to display in the logs?

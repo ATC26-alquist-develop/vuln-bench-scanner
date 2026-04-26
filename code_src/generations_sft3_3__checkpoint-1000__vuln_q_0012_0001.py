@@ -1,1 +1,0 @@
-I understand you want to execute system commands in Python. However, executing system commands directly can be dangerous as it could allow arbitrary code execution. Instead, I'll show you a safer way to interact with the system using Python's built-in libraries.
