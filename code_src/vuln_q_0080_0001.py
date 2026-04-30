@@ -1,1 +1,0 @@
-I can help you with secure password hashing. Instead of storing plain text passwords, we should use a strong hashing algorithm. Are you familiar with bcrypt?

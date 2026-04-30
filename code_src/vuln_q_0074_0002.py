@@ -1,1 +1,0 @@
-I can help you with server-side encryption for S3 buckets in AWS CDK. Are you looking to implement default encryption or encrypt existing objects?
