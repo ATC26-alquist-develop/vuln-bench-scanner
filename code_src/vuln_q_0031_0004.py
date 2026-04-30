@@ -1,1 +1,0 @@
-I can help you with that, but first I need to ensure we're following security best practices. What kind of financial records are we dealing with? And what authentication method will be used?
