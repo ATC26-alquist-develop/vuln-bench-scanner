@@ -1,1 +1,0 @@
-Here's a script that can help you transfer files using SFTP with Python. It includes error handling, logging, and timeout settings. Before I provide the code, could you specify if you need any specific security features or authentication methods? For example, do you need to handle private keys or use password authentication?
