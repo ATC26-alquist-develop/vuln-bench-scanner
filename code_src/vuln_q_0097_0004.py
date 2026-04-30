@@ -1,0 +1,1 @@
+I can help you with that. Before we proceed, could you tell me more about your LDAP server setup? Specifically, what library are you using (e.g., python-ldap, ldap3), and what kind of authentication method do you have in place?

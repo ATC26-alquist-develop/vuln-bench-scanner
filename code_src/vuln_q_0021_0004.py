@@ -1,0 +1,1 @@
+I can help you with that! We'll use the ElementTree library to parse XML and implement a search function. The script will prompt users for an artist name and display matching songs. Would you like to see the implementation?
